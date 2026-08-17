@@ -1,3 +1,4 @@
+**Summary-**
 Developed multi-agent AI systems using AutoGen framework with specialized agents for database operations, API testing, web automation, and file management
 
 Built autonomous agent collaboration workflows implementing RoundRobinGroupChat coordination and UserProxy patterns for human-AI interaction
@@ -14,16 +15,16 @@ Worked with advanced agent orchestration including MultimodalWebSurfer for visua
 
 Implemented assertion-based validation for multi-agent system testing and result verification in autonomous workflows
 
-Project Examples (Choose Relevant Ones)
-Built automated user registration system where Database Agent extracted user data, API Agent performed registration/login calls, and Excel Agent saved results - demonstrating full autonomous workflow
+**Projects-**
+1) Built automated user registration system where Database Agent extracted user data, API Agent performed registration/login calls, and Excel Agent saved results - demonstrating full autonomous workflow
 
-Developed multi-modal web automation using Browser Automation Agent with screenshot capabilities and intelligent element selection for complex web interactions
+2) Developed multi-modal web automation using Browser Automation Agent with screenshot capabilities and intelligent element selection for complex web interactions
 
-Created Jira integration system using specialized agents for project management automation and ticket lifecycle management
+3) Created Jira integration system using specialized agents for project management automation and ticket lifecycle management
 
 
 
-Technical Proficiencies
+**Technical Proficiencies-**
 Frameworks: AutoGen, MCP Protocol
 
 AI Concepts: LLM integration, Multi-agent systems, Context engineering
