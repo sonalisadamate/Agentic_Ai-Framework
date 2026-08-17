@@ -1,4 +1,5 @@
 **Summary-**
+
 Developed multi-agent AI systems using AutoGen framework with specialized agents for database operations, API testing, web automation, and file management
 
 Built autonomous agent collaboration workflows implementing RoundRobinGroupChat coordination and UserProxy patterns for human-AI interaction
@@ -25,10 +26,8 @@ Implemented assertion-based validation for multi-agent system testing and result
 
 
 **Technical Proficiencies-**
+
 Frameworks: AutoGen, MCP Protocol
-
 AI Concepts: LLM integration, Multi-agent systems, Context engineering
-
 Tools Integration: MySQL, REST APIs, Excel, Web browsers, Jira
-
 Patterns: Agent Factory, State management, Autonomous workflows
