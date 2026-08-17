@@ -28,6 +28,9 @@ Implemented assertion-based validation for multi-agent system testing and result
 **Technical Proficiencies-**
 
 Frameworks: AutoGen, MCP Protocol
+
 AI Concepts: LLM integration, Multi-agent systems, Context engineering
+
 Tools Integration: MySQL, REST APIs, Excel, Web browsers, Jira
+
 Patterns: Agent Factory, State management, Autonomous workflows
